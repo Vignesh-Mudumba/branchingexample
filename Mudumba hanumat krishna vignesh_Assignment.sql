@@ -1,6 +1,6 @@
 ## Mudumba Hanumat Krishna Vignesh
 ## Assignment 1
-
+select a user
 create database airlines;
 use airlines;
 select * from customer;
